@@ -1,6 +1,6 @@
-# nlsj: A refactoring of the `nls()` (base R) functionality
+# nlsj
 
-This is an interim package for exploration of ideas and will NOT, as it currently is presented, become a distributed package.
+An attempt to refactor the `nls()` (base R) functionality, this is an interim package for exploration of ideas and will NOT, as it currently is presented, become a distributed package.
 
 This package was developed during the `Google Summer of Code (GSoC), 2021` program, where the project student was **Arkajyoti Bhattacharjee** and the project mentors were **Dr. John C. Nash** and **Dr. Heather Turner**.
 
