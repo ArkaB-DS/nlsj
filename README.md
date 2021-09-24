@@ -7,7 +7,7 @@ This package was developed during the `Google Summer of Code (GSoC), 2021` progr
 The GSoC project titled [`Improvements to nls()`](https://github.com/ArkaB-DS/GSOC21-improveNLS). 
 
 ## Installation
-To install this development repository via `devtools` use:
+To install this development repository via `devtools` in **R** use:
 
 ```
 #install.packages("devtools")
